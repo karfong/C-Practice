@@ -1,0 +1,7 @@
+C:\Users\Grace\source\repos\IT207N_Chapter5and6\bin\Debug\IT207N_Chapter5and6.exe.config
+C:\Users\Grace\source\repos\IT207N_Chapter5and6\bin\Debug\IT207N_Chapter5and6.exe
+C:\Users\Grace\source\repos\IT207N_Chapter5and6\bin\Debug\IT207N_Chapter5and6.pdb
+C:\Users\Grace\source\repos\IT207N_Chapter5and6\obj\Debug\IT207N_Chapter5and6.csprojAssemblyReference.cache
+C:\Users\Grace\source\repos\IT207N_Chapter5and6\obj\Debug\IT207N_Chapter5and6.csproj.CoreCompileInputs.cache
+C:\Users\Grace\source\repos\IT207N_Chapter5and6\obj\Debug\IT207N_Chapter5and6.exe
+C:\Users\Grace\source\repos\IT207N_Chapter5and6\obj\Debug\IT207N_Chapter5and6.pdb

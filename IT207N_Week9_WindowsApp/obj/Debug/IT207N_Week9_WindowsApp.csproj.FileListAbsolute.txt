@@ -1,0 +1,11 @@
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\bin\Debug\IT207N_Week9_WindowsApp.exe.config
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\bin\Debug\IT207N_Week9_WindowsApp.exe
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\bin\Debug\IT207N_Week9_WindowsApp.pdb
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.csprojAssemblyReference.cache
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.Properties.Resources.resources
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.Week9Example1.resources
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.csproj.GenerateResource.cache
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.exe
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.pdb
+C:\Users\Grace\source\repos\IT207N_Week9_WindowsApp\obj\Debug\IT207N_Week9_WindowsApp.Week9Example2.resources
